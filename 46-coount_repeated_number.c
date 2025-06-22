@@ -15,6 +15,8 @@ int arr[10], i, occ[10]={0,0,0,0,0,0,0,0,0,0};
 }
 */
 
+
+
 // case of-----> let computer fill the array
 srand(time(NULL));
 
