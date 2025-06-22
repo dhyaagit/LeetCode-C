@@ -59,5 +59,4 @@ This repository was built to:
 Make sure you have a C compiler like `gcc` installed. Then:
 
 ```bash
-gcc -o output_name file_name.c
-./output_name
+gcc -o output_name file_name.c  
